@@ -4,6 +4,9 @@ This project aims to optimize the success rate of marketing campaigns for iFood,
 
 Business Objective: Maximize the number of identified responders (maximizing Recall) to ensure that marketing efforts reach as many potential customers as possible under an ample budget scenario.
 
+For the detail report, you can download the "iFood Marketing Prediction Model_Report.ppt" for your reference.
+
+
 📂 Repository Structure
 Plaintext
 ├── 01EDA.ipynb                     # Exploratory Data Analysis & Feature Engineering
